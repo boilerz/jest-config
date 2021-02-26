@@ -20,6 +20,7 @@
     "@boilerz/prettier-config": "^1.0.3",
     "@boilerz/tsconfig": "^1.4.7",
     "@boilerz/tsconfig-production": "^1.4.7",
+    "@jest/types": "^26.6.2",
     "@types/jest": "^26.0.20",
     "codecov": "^3.8.1",
     "eslint": "^7.20.0",
