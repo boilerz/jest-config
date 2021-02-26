@@ -4,22 +4,22 @@
 [![GH CI Action](https://github.com/boilerz/jest-config/workflows/CI/badge.svg)](https://github.com/boilerz/jest-config/actions?query=workflow:CI)
 [![codecov](https://codecov.io/gh/boilerz/jest-config/branch/master/graph/badge.svg)](https://codecov.io/gh/boilerz/jest-config)
 
-> Jest config
+> Jest configs
 
 ### Install
 
 ```bash
-npx install-peerdeps @boilerz/jest-config 
+yarn add -D @boilerz/jest-config 
 ```
 
 ### Usage
 
-// ...
+`jest.config.js` example:
 
-### Release
-
-```bash
-yarn version
-yarn build
-yarn publish dist --access public
+```js
+module.exports = require('@boilerz/jest-config');
 ```
+
+Additional configs available:
+- `@boilerz/jest-config/frontend`
+- `@boilerz/jest-config/react-native`
