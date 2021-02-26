@@ -60,11 +60,11 @@ Object {
     "<rootDir>/src/**/*.{ts,tsx,js,jsx}",
   ],
   "moduleFileExtensions": Array [
-    "js",
-    "json",
-    "jsx",
     "ts",
     "tsx",
+    "js",
+    "jsx",
+    "json",
     "node",
   ],
   "modulePathIgnorePatterns": Array [
