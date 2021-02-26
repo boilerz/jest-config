@@ -7,4 +7,4 @@ const config: Config.InitialOptions = {
   testEnvironment: 'node',
 };
 
-export default config;
+export = config;

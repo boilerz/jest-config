@@ -7,4 +7,4 @@ const config: Config.InitialOptions = {
   ...base,
 };
 
-export default config;
+export = config;

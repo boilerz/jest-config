@@ -7,4 +7,4 @@ const config: Config.InitialOptions = {
   testEnvironment: 'jsdom',
 };
 
-export default config;
+export = config;
