@@ -1,16 +1,15 @@
 {
-  "name": "@gh_user/gh_repo_name",
-  "version": "package_version",
+  "name": "@boilerz/jest-config",
+  "version": "1.0.0",
   "main": "src/index.ts",
-  "repository": "git@github.com:gh_user/gh_repo_name.git",
-  "author": "gh_user",
-  "description": "gh_short_description",
+  "repository": "git@github.com:boilerz/jest-config.git",
+  "author": "boilerz",
+  "description": "Jest config",
   "license": "MIT",
   "private": false,
   "scripts": {
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "typecheck": "tsc",
-    "custom": "customBoilerplate",
     "build": "buildTSPackage",
     "test": "jest --coverage",
     "codecov": "codecov"

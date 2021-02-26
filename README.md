@@ -1,24 +1,25 @@
-# @boilerz/boilerplate-lib
+# @boilerz/jest-config
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/boilerz/boilerplate-lib/blob/master/LICENSE)
-[![GH CI Action](https://github.com/boilerz/boilerplate-lib/workflows/CI/badge.svg)](https://github.com/boilerz/boilerplate-lib/actions?query=workflow:CI)
-[![codecov](https://codecov.io/gh/boilerz/boilerplate-lib/branch/master/graph/badge.svg)](https://codecov.io/gh/boilerz/boilerplate-lib)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/boilerz/jest-config)](https://www.npmjs.com/package/@boilerz/jest-config)
+[![GH CI Action](https://github.com/boilerz/jest-config/workflows/CI/badge.svg)](https://github.com/boilerz/jest-config/actions?query=workflow:CI)
+[![codecov](https://codecov.io/gh/boilerz/jest-config/branch/master/graph/badge.svg)](https://codecov.io/gh/boilerz/jest-config)
 
-> Boilerplate lib.
+> Jest config
 
-### Setup
-
-Use as template, then after pulling the repo:
+### Install
 
 ```bash
-yarn install
-yarn custom
+npx install-peerdeps @boilerz/jest-config 
 ```
 
-2. Add `CODECOV_TOKEN` as a secret.
+### Usage
 
-3. Update `.github/workflows/ci.yml` and delete the following line to enable automatic release:
+// ...
 
-```yaml
-  version: 'false' # cut that line to enable this action
+### Release
+
+```bash
+yarn version
+yarn build
+yarn publish dist --access public
 ```
