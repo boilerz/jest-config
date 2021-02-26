@@ -3,8 +3,8 @@ import type { Config } from '@jest/types';
 import base from './base';
 
 const config: Config.InitialOptions = {
+  preset: 'react-native',
   ...base,
-  testEnvironment: 'node',
 };
 
 export default config;

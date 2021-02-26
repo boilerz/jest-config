@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`jest config should return default jest config 1`] = `
+Object {
+  "collectCoverageFrom": Array [
+    "<rootDir>/src/**/*.{ts,tsx,js,jsx}",
+  ],
+  "moduleFileExtensions": Array [
+    "js",
+    "json",
+    "jsx",
+    "ts",
+    "tsx",
+    "node",
+  ],
+  "modulePathIgnorePatterns": Array [
+    "<rootDir>/dist",
+    "<rootDir>/lib",
+    "<rootDir>/coverage",
+  ],
+  "resetMocks": true,
+  "restoreMocks": true,
+  "testEnvironment": "node",
+  "transform": Object {
+    "^.+\\\\.tsx?$": "ts-jest",
+  },
+}
+`;
+
+exports[`jest config should return frontend jest config 1`] = `
+Object {
+  "collectCoverageFrom": Array [
+    "<rootDir>/src/**/*.{ts,tsx,js,jsx}",
+  ],
+  "moduleFileExtensions": Array [
+    "js",
+    "json",
+    "jsx",
+    "ts",
+    "tsx",
+    "node",
+  ],
+  "modulePathIgnorePatterns": Array [
+    "<rootDir>/dist",
+    "<rootDir>/lib",
+    "<rootDir>/coverage",
+  ],
+  "resetMocks": true,
+  "restoreMocks": true,
+  "testEnvironment": "jsdom",
+  "transform": Object {
+    "^.+\\\\.tsx?$": "ts-jest",
+  },
+}
+`;
+
+exports[`jest config should return react-native jest config 1`] = `
+Object {
+  "collectCoverageFrom": Array [
+    "<rootDir>/src/**/*.{ts,tsx,js,jsx}",
+  ],
+  "moduleFileExtensions": Array [
+    "js",
+    "json",
+    "jsx",
+    "ts",
+    "tsx",
+    "node",
+  ],
+  "modulePathIgnorePatterns": Array [
+    "<rootDir>/dist",
+    "<rootDir>/lib",
+    "<rootDir>/coverage",
+  ],
+  "preset": "react-native",
+  "resetMocks": true,
+  "restoreMocks": true,
+  "transform": Object {
+    "^.+\\\\.tsx?$": "ts-jest",
+  },
+}
+`;

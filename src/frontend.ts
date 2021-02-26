@@ -4,7 +4,7 @@ import base from './base';
 
 const config: Config.InitialOptions = {
   ...base,
-  testEnvironment: 'node',
+  testEnvironment: 'jsdom',
 };
 
 export default config;
