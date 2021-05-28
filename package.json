@@ -20,7 +20,7 @@
     "@boilerz/prettier-config": "^1.0.4",
     "@boilerz/tsconfig": "^1.4.10",
     "@boilerz/tsconfig-production": "^1.4.10",
-    "@jest/types": "^26.6.2",
+    "@jest/types": "^27.0.1",
     "@types/jest": "^26.0.23",
     "@types/lodash.omit": "^4.5.6",
     "codecov": "^3.8.2",
