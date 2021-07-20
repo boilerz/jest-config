@@ -23,7 +23,7 @@
     "@jest/types": "^27.0.6",
     "@types/jest": "^26.0.24",
     "@types/lodash.omit": "^4.5.6",
-    "codecov": "^3.8.2",
+    "codecov": "^3.8.3",
     "eslint": "^7.30.0",
     "jest": "^26.6.3",
     "prettier": "^2.3.2",
