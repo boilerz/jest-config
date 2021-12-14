@@ -7,10 +7,10 @@ Object {
   ],
   "moduleFileExtensions": Array [
     "js",
-    "json",
     "jsx",
     "ts",
     "tsx",
+    "json",
     "node",
   ],
   "modulePathIgnorePatterns": Array [
@@ -34,10 +34,10 @@ Object {
   ],
   "moduleFileExtensions": Array [
     "js",
-    "json",
     "jsx",
     "ts",
     "tsx",
+    "json",
     "node",
   ],
   "modulePathIgnorePatterns": Array [
