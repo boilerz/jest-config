@@ -30,7 +30,7 @@
     "typescript": "^4.6.3"
   },
   "dependencies": {
-    "jest-config": "^27.4.5",
+    "jest-config": "^27.5.1",
     "lodash.omit": "^4.5.0",
     "ts-jest": "^27.1.1"
   },
