@@ -32,7 +32,7 @@
   "dependencies": {
     "jest-config": "^27.5.1",
     "lodash.omit": "^4.5.0",
-    "ts-jest": "^27.1.4"
+    "ts-jest": "^28.0.0-next.2"
   },
   "resolutions": {
     "node-notifier": "^9.0.0"
