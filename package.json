@@ -1,6 +1,6 @@
 {
   "name": "@boilerz/jest-config",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "main": "src/index.ts",
   "repository": "git@github.com:boilerz/jest-config.git",
   "author": "boilerz",
