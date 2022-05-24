@@ -32,7 +32,7 @@
   "dependencies": {
     "jest-config": "^28.1.0",
     "lodash.omit": "^4.5.0",
-    "ts-jest": "^28.0.2"
+    "ts-jest": "^28.0.3"
   },
   "peerDependencies": {
     "jest": "^28.1.0"
