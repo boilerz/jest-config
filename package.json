@@ -21,7 +21,7 @@
     "@boilerz/tsconfig": "^1.4.15",
     "@boilerz/tsconfig-production": "^1.4.14",
     "@jest/types": "^28.0.2",
-    "@types/jest": "^28.1.7",
+    "@types/jest": "^28.1.8",
     "@types/lodash.omit": "^4.5.7",
     "codecov": "^3.8.3",
     "eslint": "^7.32.0",
