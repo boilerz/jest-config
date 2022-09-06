@@ -480,10 +480,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@boilerz/build-tools@^1.5.1", "@boilerz/build-tools@^1.5.42":
-  version "1.5.42"
-  resolved "https://registry.yarnpkg.com/@boilerz/build-tools/-/build-tools-1.5.42.tgz#9e29cecb410373394debad30bf081434f3664361"
-  integrity sha512-7iSycY107iIOrE7kM6ntuxxlL6RuVZtu9ZZsklY22YOyRdCPYSg/Fv9Rdbjyx2P3hbNuER5zmY5H0A2syMkLrQ==
+"@boilerz/build-tools@^1.5.1", "@boilerz/build-tools@^1.5.43":
+  version "1.5.43"
+  resolved "https://registry.yarnpkg.com/@boilerz/build-tools/-/build-tools-1.5.43.tgz#bad96378fa84fcbbd8af0943733b521da861fea9"
+  integrity sha512-Ft+rPRn4x5Xtvnoz5M7PFEuIQ2AM9e2sptMChhXv12gqOmaDO61VP8tgqEslK2Yda+uoREplqJsX9vxUbsu3gQ==
   dependencies:
     "@boilerz/build-tools" "^1.5.1"
     lodash.omit "^4.5.0"
@@ -877,7 +877,7 @@
     "@types/yargs" "^17.0.8"
     chalk "^4.0.0"
 
-"@jest/types@^29.0.1", "@jest/types@^29.0.2":
+"@jest/types@^29.0.2":
   version "29.0.2"
   resolved "https://registry.yarnpkg.com/@jest/types/-/types-29.0.2.tgz#5a5391fa7f7f41bf4b201d6d2da30e874f95b6c1"
   integrity sha512-5WNMesBLmlkt1+fVkoCjHa0X3i3q8zc4QLTDkdHgCa2gyPZc7rdlZBWgVLqwS1860ZW5xJuCDwAzqbGaXIr/ew==
